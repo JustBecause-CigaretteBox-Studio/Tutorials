@@ -1,2 +1,2 @@
-# Tutorials
-这里会展示野鸡动画编程课的更新状态
+# 在右侧Releases里下载免费试用版课程Download the free trial course from Releases on the right.
+这里会展示野鸡动画编程课的更新状态Check here for the latest updates and release notes for the Wild Chicken Animation Programming Course.
