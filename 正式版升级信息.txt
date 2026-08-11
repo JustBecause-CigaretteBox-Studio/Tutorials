@@ -1,2 +1,18 @@
+·正式版定价确定为9.9人民币 
+  不论后续更新多少内容，都不会以任何形式额外收费 
+  注意正式版与免费试用版的题目练习/项目练习都没有区别，只存在课程内容差异  
+  免费试用版也会进行后续更新 
+
+• The full version is priced at ¥9.9 (RMB). All future updates are completely free — no additional charges of any kind, no matter how much content is added. Please note: exercises and projects are identical in both the full version and the free trial; the only difference is the course content. The free trial will also continue to receive updates.
+
 ·介绍变量类型时，str/string的解释从“文字”改为“字符串”
   便于理解“字符”与“字符串”的关系，以及字符串的运算
+
+· When introducing variable types, the explanation for str/string has been changed from "text" to "string". This makes it easier to understand the relationship between "character" and "string", as well as string operations.
+
+·关于其他语言版本
+  目前只决定制作英文版
+  正式版发布之后可能更新中英切换功能
+
+• Regarding other language versions
+Currently, only an English version is planned. A Chinese-English language toggle may be added after the full version release.
