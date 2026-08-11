@@ -4,3 +4,5 @@
 在 正式版升级信息.txt 中了解正式版的更新状态    See 正式版升级信息.txt for full version updates.
 
 在 Issues 中反馈问题/提出意见    Report bugs or share feedback in Issues.
+
+若浏览器下载太慢可以在速度降下来时动动鼠标
